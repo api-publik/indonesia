@@ -219,6 +219,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Pesantren se Indonesia                                               |       nasrul21       |                [Link](https://github.com/nasrul21/data-pesantren-indonesia)                 |      `Aktif`      | API Data Pesantren se Indonesia                                                                                                                                                     | Tidak  |
 | Gunung Berapi di Indonesia                                           |     Yogi Saputro     |            [Link](https://indonesia-public-static-api.vercel.app/api/volcanoes)             |      `Aktif`      | API daftar gunung berapi di Indonesia. Lihat [dokumentasi](https://github.com/yogski/indonesia-public-static-api#api-gunung-berapi-indonesia-apivolcanoes) untuk detail penggunaan. | Tidak  |
 | Nama Provinsi, Kota, Kabupaten Seluruh Wilayah Indonesia             |    Muhammad Syifa    |                   [Link](https://github.com/emsifa/api-wilayah-indonesia)                   |      `Aktif`      | API statis berisi data wilayah Indonesia serta perintah untuk mendeploynya ke static hosting                                                                                        | Tidak  |
+| API Indonesia | khmuhtadin | [Link](https://apiindonesia.id) | `Aktif` | REST API wilayah 38 provinsi sampai 83.000+ desa/kelurahan dan kode pos, plus sekolah, rumah sakit, UMP dan data publik lain. Bonus sekali 3.000 kredit saat daftar, lalu berbayar per request | `apiKey` |
 
 ### Musik
 
